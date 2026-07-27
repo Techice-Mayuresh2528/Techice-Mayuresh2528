@@ -41,7 +41,7 @@ print("README optimization underway")
 
 ## About Me 👋
 
-I'm **Ayush**, a software developer passionate about building reliable backend systems and understanding how modern software works beyond the code. I enjoy designing APIs, working with databases, and solving problems that require thoughtful architecture, clean implementation, and attention to detail. My goal is to build software that is scalable, maintainable, and capable of growing with real-world demands.
+I'm **Mayuresh**, a software developer passionate about building reliable backend systems and understanding how modern software works beyond the code. I enjoy designing APIs, working with databases, and solving problems that require thoughtful architecture, clean implementation, and attention to detail. My goal is to build software that is scalable, maintainable, and capable of growing with real-world demands.
 
 I'm currently deepening my expertise in **Backend Engineering**, **Data Structures & Algorithms**, and **System Design fundamentals** while continuously shipping projects that reinforce these concepts. I believe in writing clean, maintainable code, learning from every challenge, and improving through consistent execution. Whether it's optimizing an API, debugging complex edge cases, or exploring scalable system architectures, I'm always focused on becoming a better engineer one project at a time.
 
@@ -59,9 +59,7 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 | Project | Description | Tech Stack | Live Demo |
 |----------|-------------|------------|-----------|
 |  **IntelliX** | Smart academic management system for student records, attendance, batch management, analytics, and role-based access. Designed with scalable REST APIs and modular backend architecture. | Node.js, Express, MongoDB | **[View Project](https://intelli-x.vercel.app/)** |
-|  **Evalix AI** | AI-powered evaluation platform for managing tests, submissions, automated assessments, and performance analytics with a scalable educator-focused workflow. | Node.js, Express, MongoDB, AI APIs *(Planned)* | **[View Project](https://evalix-ai.vercel.app/)** |
-|  **NivaaranAI** | AI-powered civic intelligence platform featuring complaint classification, duplicate detection, sentiment analysis, priority scoring, ward-level routing, and analytics dashboards. | Next.js, TypeScript, Tailwind CSS, Supabase, FastAPI, TensorFlow, NLP | **[View Project](https://nivaaran-ai.vercel.app/)** |
-|  **SpiderChat** | Real-time Spider-Verse themed chat platform with room-based messaging, media sharing, reactions, replies, typing indicators, and dark/light mode. | Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO | **[View Project](https://spiderchat.vercel.app/)** |
+
 
 this si so good , make it better n clean version, thats it 
 
@@ -89,30 +87,21 @@ this si so good , make it better n clean version, thats it
 
 ---
 
-## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Techice-Mayuresh2528&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://streak-stats.demolab.com/?user=Techice-Mayuresh2528&theme=radical&hide_border=true" width="48%"/>
-<img height="180em" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Techice-Mayuresh2528&layout=compact&theme=tokyonight"/> <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techice-Mayuresh2528&theme=radical&radius=8"/>
+
 
 </p>
 
 ---
 
-### 🏆Github Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Techice-Mayuresh2528&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-###
+
 
 ---
 
 ## 🔗 Let's Connect 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/singhayush08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+
   <a href="https://github.com/Techice-Mayuresh2528" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
   <a href="https://ayushbuilds.in/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp;
   <a href="mailto:ayushkumarravishankarsingh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a> &nbsp;
