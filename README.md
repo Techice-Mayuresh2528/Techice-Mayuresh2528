@@ -1,143 +1,148 @@
-<table>
-<tr>
-<td width="55%" valign="middle">
+<div align="center">
 
-# Hello, I'm Mayuresh Gavali.
+# 👋 Hello, I'm Mayuresh Gavali
 
-###  DSA • System Design • Full Stack Developer
+### Computer Engineering Student | Full Stack Developer | Backend Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=58A6FF&center=false&vCenter=true&width=700&lines=Engineering+Scalable+Backends;Designing+Systems+That+Actually+Scale;Building+Products+for+the+Long+Run;Clean+Architecture+%7C+Performance+%7C+Reliability" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+Backend+Development;Exploring+System+Design;Writing+Clean+Code" />
 
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350"/>
-
-</td>
-</tr>
-</table>
-
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,9,10,10&text=Ayush%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend-Focused%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Building%20Scalable%20Systems&descSize=18&descAlignY=55"/>
-</p>
-<div align="center"></div> -->
-
- <!-- <pre>
-readme_status = {
-    "status": "in progress...",
-    "focus": ["structure", "clarity", "project highlights"],
-    "last_update": "ongoing"
-}
-print("README optimization underway")
-  </pre>-->
-
-
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
-
----
-
-## About Me 👋
-
-I'm **Mayuresh**, a software developer passionate about building reliable backend systems and understanding how modern software works beyond the code. I enjoy designing APIs, working with databases, and solving problems that require thoughtful architecture, clean implementation, and attention to detail. My goal is to build software that is scalable, maintainable, and capable of growing with real-world demands.
-
-I'm currently deepening my expertise in **Backend Engineering**, **Data Structures & Algorithms**, and **System Design fundamentals** while continuously shipping projects that reinforce these concepts. I believe in writing clean, maintainable code, learning from every challenge, and improving through consistent execution. Whether it's optimizing an API, debugging complex edge cases, or exploring scalable system architectures, I'm always focused on becoming a better engineer one project at a time.
-
----
-
-<p align="center">
-  <a href="https://github.com/Techice-Mayuresh2528?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/Techice-Mayuresh2528?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
-  <a href="https://github.com/Techice-Mayuresh2528?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/Techice-Mayuresh2528?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
-  <a href="https://github.com/Techice-Mayuresh2528" style="text-decoration: none;"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Techice-Mayuresh2528&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
-</p>
-
----
-
-## ⭐ Projects
-| Project | Description | Tech Stack | Live Demo |
-|----------|-------------|------------|-----------|
-|  **IntelliX** | Smart academic management system for student records, attendance, batch management, analytics, and role-based access. Designed with scalable REST APIs and modular backend architecture. | Node.js, Express, MongoDB | **[View Project](https://intelli-x.vercel.app/)** |
-
-
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40"/>
-</p>
-
----
-
-
-
-
-</p>
-
----
-
-
-
----
-
-## 🔗 Let's Connect 
-
-<div align="left">
-
-  <a href="https://github.com/Techice-Mayuresh2528" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
-  <a href="https://techice-mayuresh2528.github.io/Mayuresh-Portfolio.2/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp;
-  <a href="mailto:mayuresh28gavali@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a> &nbsp;
-  <!-- <a href="https://discord.com/users/1377918872925241375" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank"/></a>  -->
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+Hi, I'm **Mayuresh Gavali**, a Computer Engineering student passionate about software development and building practical applications.
+
+I enjoy working with **Java, Spring Boot, Python, React, JavaScript, and databases**. I like solving problems using **Data Structures & Algorithms** and exploring how scalable software systems are designed.
+
+Currently, I am improving my skills in:
+
+- 🚀 Full Stack Development
+- ⚙️ Backend Development
+- 🧩 Data Structures & Algorithms
+- 🏗️ System Design Fundamentals
+- ☁️ Cloud & DevOps Technologies
+
+I believe in learning by building projects and continuously improving my coding skills.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering - Computer Engineering**
+
+🏫 Vasantdada Patil College of Engineering
+
+📚 Currently pursuing 3rd Year Computer Engineering
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Technologies | Link |
+|----------|-------------|--------------|------|
+| **IntelliX** | Academic management platform for coaching institutes with student records, attendance, tests, results, materials and role-based access. | React, Node.js, Express, Supabase | [Live Demo](https://intelli-x.vercel.app/) |
+| **Zestra** | Modern perfume e-commerce website with responsive design and product showcase. | HTML, CSS, JavaScript | [Live Demo](https://zestra-fragrances.netlify.app/) |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+
+### Backend & Database
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+
+### Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Techice-Mayuresh2528&show_icons=true&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Techice-Mayuresh2528&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/Techice-Mayuresh2528">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:mayuresh28gavali@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://techice-mayuresh2528.github.io/Mayuresh-Portfolio.2/">
+<img src="https://img.shields.io/badge/Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Techice-Mayuresh2528/Techice-Mayuresh2528/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 ## 💬 Quote
-> you put in the work, you get the results. it's that simple.
+
+> "Consistency beats talent when talent doesn't work consistently."
 
 ---
 
-<p align="center"><a href="https://www.github.com/Techice-Mayuresh2528" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+⭐ Thanks for visiting my profile ⭐
+
 </div>
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techice-Mayuresh2528/Techice-Mayuresh2528/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techice-Mayuresh2528/Techice-Mayuresh2528/output/pacman-contribution-graph.svg">
-  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Techice-Mayuresh2528/Techice-Mayuresh2528/output/pacman-contribution-graph.svg"> -->
-</picture>
-
-###
