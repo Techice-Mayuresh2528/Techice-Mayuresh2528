@@ -61,7 +61,6 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 |  **IntelliX** | Smart academic management system for student records, attendance, batch management, analytics, and role-based access. Designed with scalable REST APIs and modular backend architecture. | Node.js, Express, MongoDB | **[View Project](https://intelli-x.vercel.app/)** |
 
 
-this si so good , make it better n clean version, thats it 
 
 ---
 
