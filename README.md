@@ -1,148 +1,299 @@
 <div align="center">
+<img src="assets/pixel-room.png" width="100%" alt="Coding Room">
 
-# 👋 Hello, I'm Mayuresh Gavali
+# 👋 Hi, I'm **Mayuresh Gavali**
 
-### Computer Engineering Student | Full Stack Developer | Backend Enthusiast
+### 💻 Computer Engineering Student | Full Stack Developer | Java & Spring Boot Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+Backend+Development;Exploring+System+Design;Writing+Clean+Code" />
+<p>
+<a href="https://github.com/Techice-Mayuresh2528">
+<img src="https://img.shields.io/github/followers/Techice-Mayuresh2528?style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Techice-Mayuresh2528&style=for-the-badge&color=blue"/>
+
+<a href="mailto:mayuresh28gavali@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://techice-mayuresh2528.github.io/Mayuresh-Portfolio.2/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-Hi, I'm **Mayuresh Gavali**, a Computer Engineering student passionate about software development and building practical applications.
+Hi! I'm **Mayuresh Gavali**, a passionate **Computer Engineering student** who enjoys building scalable and practical software solutions.
 
-I enjoy working with **Java, Spring Boot, Python, React, JavaScript, and databases**. I like solving problems using **Data Structures & Algorithms** and exploring how scalable software systems are designed.
+I'm currently focused on improving my skills in **Java**, **Spring Boot**, **React**, **System Design**, and **Cloud Technologies**. I enjoy solving problems with **Data Structures & Algorithms** and love turning ideas into real-world applications.
 
-Currently, I am improving my skills in:
-
-- 🚀 Full Stack Development
-- ⚙️ Backend Development
-- 🧩 Data Structures & Algorithms
-- 🏗️ System Design Fundamentals
-- ☁️ Cloud & DevOps Technologies
-
-I believe in learning by building projects and continuously improving my coding skills.
+- 🎓 B.E. Computer Engineering (3rd Year)
+- 🏫 Vasantdada Patil College of Engineering
+- 🌱 Learning Spring Boot, React & Cloud
+- 💻 Backend Development Enthusiast
+- 🧠 Regular DSA Practice
+- 🚀 Open to Software Development Internship Opportunities
 
 ---
 
-## 🎓 Education
+# 🛠 Tech Stack
 
-**Bachelor of Engineering - Computer Engineering**
-
-🏫 Vasantdada Patil College of Engineering
-
-📚 Currently pursuing 3rd Year Computer Engineering
-
----
-
-## 🚀 Projects
-
-| Project | Description | Technologies | Link |
-|----------|-------------|--------------|------|
-| **IntelliX** | Academic management platform for coaching institutes with student records, attendance, tests, results, materials and role-based access. | React, Node.js, Express, Supabase | [Live Demo](https://intelli-x.vercel.app/) |
-| **Zestra** | Modern perfume e-commerce website with responsive design and product showcase. | HTML, CSS, JavaScript | [Live Demo](https://zestra-fragrances.netlify.app/) |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
 </p>
 
-
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
 </p>
 
-
-### Backend & Database
+### ⚙ Backend
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
-
-### Tools
+### 🗄 Database
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase"/>
 </p>
 
+### 🧰 Tools
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Techice-Mayuresh2528&show_icons=true&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Techice-Mayuresh2528&theme=tokyonight"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Current Focus
+
+- 🚀 Building Full Stack Projects
+- ⚙ Mastering Spring Boot
+- 🧩 Improving Data Structures & Algorithms
+- ☁ Learning Cloud & DevOps
+- 📚 Exploring System Design
+- 💼 Preparing for Software Engineering Internships
+
+---# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 IntelliX
+
+**Academic Management Platform**
+
+A complete platform designed for coaching institutes to manage students, teachers, attendance, tests, study materials, and results with role-based access.
+
+### ✨ Features
+- 👨‍🎓 Student Management
+- 📅 Attendance Tracking
+- 📝 Online Tests & Results
+- 📚 Study Materials
+- 👨‍🏫 Teacher Dashboard
+- 🔐 Secure Authentication
+
+### 🛠 Tech Stack
 
 <p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase"/>
+</p>
 
-<a href="https://github.com/Techice-Mayuresh2528">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_INTELLIX_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
 </a>
+
+<a href="YOUR_INTELLIX_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌸 Zestra
+
+**Modern Perfume E-Commerce Website**
+
+A responsive perfume website focused on clean UI, smooth animations, and a modern shopping experience.
+
+### ✨ Features
+- 🛍 Product Showcase
+- 📱 Responsive Design
+- ⚡ Fast Performance
+- 🎨 Modern Interface
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+</p>
+
+<a href="YOUR_ZESTRA_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_ZESTRA_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Techice-Mayuresh2528&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Techice-Mayuresh2528&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techice-Mayuresh2528&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techice-Mayuresh2528&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Techice-Mayuresh2528&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 Highlights
+
+- 🚀 Building real-world Full Stack applications
+- 💻 Strong interest in Backend Development
+- 📚 Continuously learning new technologies
+- 🎯 Preparing for Software Engineering roles
+- 🌱 Passionate about writing clean, maintainable code
+
+------
+
+# 👾 Coding Vibes
+
+<div align="center">
+
+
+
+*"Eat • Sleep • Code • Repeat ☕"*
+
+</div>
+
+---
+
+# 🎮 Pac-Man Contribution Graph
+
+<div align="center">
+
+
+</div>
+
+---
+
+# 📅 2026 Goals
+
+- 🚀 Master Spring Boot & Microservices
+- ☁️ Learn AWS & Docker
+- 📚 Improve DSA and Problem Solving
+- 🤝 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
+- 🌍 Build impactful Full Stack Projects
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
 
 <a href="mailto:mayuresh28gavali@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Techice-Mayuresh2528">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://techice-mayuresh2528.github.io/Mayuresh-Portfolio.2/">
-<img src="https://img.shields.io/badge/Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-</p>
+</div>
+
+<div align="center">
+
+📧 **Email:** mayuresh28gavali@gmail.com
+
+🌐 **Portfolio:** https://techice-mayuresh2528.github.io/Mayuresh-Portfolio.2/
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Techice-Mayuresh2528/Techice-Mayuresh2528/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Techice-Mayuresh2528/Techice-Mayuresh2528/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
-</p>
+</div>
 
 ---
 
-## 💬 Quote
+# 💡 Favorite Quote
 
-> "Consistency beats talent when talent doesn't work consistently."
+> **"Consistency beats talent when talent doesn't work consistently."**
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider following me and checking out my projects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </div>
